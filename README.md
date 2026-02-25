@@ -30,8 +30,5 @@ BMI = weight (kg) / (height in meters × height in meters)
 - Basic validation & try-catch
 - Simple UI layout
 
-## Screenshots
-(Add screenshots here)
-
 ## Author
 Faisal
